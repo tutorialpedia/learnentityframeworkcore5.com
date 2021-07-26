@@ -22,7 +22,7 @@ There are a few numbers of methods for configuring the connection strings for `D
 
 On `DbContext`their data needs to be updated regularly for providing better results, to maintain this procedure the data needs to be overridden onto `DbContext`.
 
-* To override the data every time on `DbConetxt`using the connection string, the `OnConfiguring`method is used to achieve the overridden of the data.
+* To override the data every time on `DbContext` using the connection string, the `OnConfiguring`method is used to achieve the overridden of the data.
 * The only downside of the `OnConfiguring`method is that if it is used on the connection string, it will override all other configurations for that database.
 
 ```csharp
