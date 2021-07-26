@@ -14,7 +14,7 @@ In Entity Framework Core, there could be multiple numbers of databases that need
 
 ## Configuring Connection Strings in EF Core
 
-After creating the connection string between database and database providers, we need to make it available to the **`DbContext`**for processing the data for the application.
+After creating the connection string between database and database providers, we need to make it available to the `DbContext` for processing the data for the application.
 
 There are a few numbers of methods for configuring the connection strings for `DbContext`.
 
