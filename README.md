@@ -105,6 +105,17 @@ To arrange all these classes in a systematic and structured order, any developer
 
 In this case, an ORM like the EF Core comes really handy as it does all the work automatically, resulting in saving lots of resources.
 
+## Bulk Extensions
+
+In some other situations where you need optimal performance and save thousands of entities, you need to use a third-party library named [Entity Framework Extensions](https://entityframework-extensions.net/).
+
+They offer [EFCore BulkExtensions](https://entityframework-extensions.net/bulk-extensions) that allow you to be way faster but also use way less memory:
+
+| | BulkInsert | SaveChanges |
+| -- | :--: | :--: |
+| Memory | 400 MB | 1800 MB |
+| Performance | 10s | 58s |
+
 ## Conclusion
 
 Entity Framework Core is very useful yet agile software which sits between different category of classes and the databases or database tables to automatically configure the SQL statements needed to restructure and manage the given databases.
