@@ -101,3 +101,7 @@ var Movies = context.Movies
 2. The SQL queries must return all the columns in the table, also the returned column names should match the names that are mapped into the database.
 3. The SQL queries cannot use the join queries to get the previous data, they should use the Include method instead.
 
+## References
+
+- [EF Core - Raw SQL Query](https://www.learnentityframeworkcore.com/raw-sql)
+- [EF Core - FromSql](https://www.learnentityframeworkcore.com/raw-sql/from-sql)
