@@ -14,13 +14,13 @@ In Entity Framework Core, when there is a change in the model, the database tabl
 
 In Entity Framework Core, migration method can help in multiple numbers of tasks, such as:
 
-* Creating Migration.
-* Update or create Database
-* Modify current migration code.
-* Remove Migration from Model.
-* Revert the effect of Migration.
-* Create SQL Scripts.
-* Apply Migration at Runtime.
+* [Creating Migration](https://www.learnentityframeworkcore.com/migrations/add-migration)
+* [Update or create Database](https://www.learnentityframeworkcore.com/migrations/update-database)
+* Modify current migration code
+* [Remove Migration from Model](https://www.learnentityframeworkcore.com/migrations/remove-migration)
+* Revert the effect of Migration
+* Create SQL Scripts
+* Apply Migration at Runtime
 
 All these tasks can be applied with the help of the Migration method.
 
@@ -159,4 +159,11 @@ In some cases, the migration might not work due to application taking more time 
 ## Summary
 
 This completes everything about the migrations in Microsoft Entity Framework Core, over-all migration is a very useful feature and it helps lots of developers while using EF Core.
+
+## References
+
+- [Add Migration](https://www.learnentityframeworkcore.com/migrations/add-migration)
+- [Update Database](https://www.learnentityframeworkcore.com/migrations/update-database)
+- [Remove Migration](https://www.learnentityframeworkcore.com/migrations/remove-migration)
+- [Migration Files](https://www.learnentityframeworkcore.com/migrations/migration-files)
 
