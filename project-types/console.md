@@ -158,3 +158,6 @@ If you run the application, you will see that authors and books are successfully
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
+## References
+
+- [EF Core Console Application](https://www.learnentityframeworkcore.com/walkthroughs/console-application)
