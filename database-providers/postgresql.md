@@ -167,3 +167,6 @@ using (var context = new BookStore())
 
 If you run the application, you will see that authors and books are successfully inserted into the database.
 
+## References
+
+- [EF Core PostgreSQL Provider](https://www.learnentityframeworkcore.com/database-providers#ef-core-postgresql-provider)
