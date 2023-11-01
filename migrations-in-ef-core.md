@@ -162,8 +162,8 @@ This completes everything about the migrations in Microsoft Entity Framework Cor
 
 ## References
 
-- [Add Migration](https://www.learnentityframeworkcore.com/migrations/add-migration)
-- [Update Database](https://www.learnentityframeworkcore.com/migrations/update-database)
-- [Remove Migration](https://www.learnentityframeworkcore.com/migrations/remove-migration)
-- [Migration Files](https://www.learnentityframeworkcore.com/migrations/migration-files)
+- [EF Core Add Migration](https://www.learnentityframeworkcore.com/migrations/add-migration)
+- [EF Core Update Database](https://www.learnentityframeworkcore.com/migrations/update-database)
+- [EF Core Remove Migration](https://www.learnentityframeworkcore.com/migrations/remove-migration)
+- [EF Core Migration Files](https://www.learnentityframeworkcore.com/migrations/migration-files)
 
