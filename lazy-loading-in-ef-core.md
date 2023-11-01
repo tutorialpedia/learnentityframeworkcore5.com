@@ -112,3 +112,6 @@ It helps in functionality reducing application startup time, less memory utiliza
 
 What can be concluded from Lazy Loading is that this feature is useful in some scenarios, otherwise, it could distract the users and developers if they forget to disable the feature.
 
+## References
+
+- [EF Core - Lazy Loading](https://www.learnentityframeworkcore.com/lazy-loading)
