@@ -166,5 +166,9 @@ using (var context = new BookStore())
 }
 ```
 
+## References
+
+- [EF Core InMemory Provider](https://www.learnentityframeworkcore.com/database-providers#ef-core-inmemory-provider)
+
 If you run the application, you will see that authors and books are successfully inserted into the database.
 
