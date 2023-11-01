@@ -243,3 +243,9 @@ The `OnDelete` Method can use the following values in the Entity Framework Core:
 * ClientSetNull.
 * Cascade.
 
+## References
+
+- [EF Core Relationships](https://www.learnentityframeworkcore.com/relationships)
+- [EF Core One to One Relationship](https://www.learnentityframeworkcore.com/conventions/one-to-one-relationship)
+- [EF Core One to Many Relationship](https://www.learnentityframeworkcore.com/conventions/one-to-many-relationship)
+- [EF Core One to Many Relationship](https://www.learnentityframeworkcore.com/conventions/many-to-many-relationship)
