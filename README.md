@@ -111,7 +111,7 @@ In some other situations where you need optimal performance and save thousands o
 
 They offer [EFCore BulkExtensions](https://entityframework-extensions.net/bulk-extensions) that allow you to be way faster but also use way less memory:
 
-| | BulkInsert | SaveChanges |
+| Versus | BulkInsert | SaveChanges |
 | -- | :--: | :--: |
 | Memory | 400 MB | 1800 MB |
 | Performance | 10s | 58s |
