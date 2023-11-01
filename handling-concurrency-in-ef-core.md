@@ -165,3 +165,6 @@ using (var DBcontext = new EFCoreContext())
 }
 ```
 
+## References
+
+- [EF Core Concurrency](https://entityframework-extensions.net/concurrency)
