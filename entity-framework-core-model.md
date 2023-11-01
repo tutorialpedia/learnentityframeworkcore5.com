@@ -214,3 +214,6 @@ var accounts = context.Accounts
     .OrderBy(account=> Property<DateTime>(account, "LastUpdated"));
 ```
 
+## References
+
+- [EF Core Model](https://www.learnentityframeworkcore.com/model)
