@@ -23,5 +23,6 @@ The following providers are supported in Entity Framework Core 5.
 | [Cosmos](cosmos.md) | [Microsoft.EntityFrameworkCore.Cosmos](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Cosmos) |
 | [PostgreSQL](postgresql.md)   | [Npgsql.EntityFrameworkCore.PostgreSQL](https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL) |
 
+## References
 
-
+- [EF Core - Database Providers](https://www.learnentityframeworkcore.com/database-providers)
