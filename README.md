@@ -18,7 +18,7 @@ Some advantage of EF Core include:
 EF Core supports two development approaches:
 
 Code First
-Database First
+[Database First](https://www.learnentityframeworkcore.com/walkthroughs/existing-database)
 
 ### Code First Approach
 
