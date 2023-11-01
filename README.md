@@ -114,3 +114,8 @@ It simplifies the work of the developers by developing the data on its own, whic
 Since its a cross-platform software, any .NET developer can have the benefits of the Entity Framework Core.
 
 With the on-going development happening to the Entity Framework Core, developers can expect useful and amazing features making their way to future firmware releases.
+
+## References
+
+- [Learn EF Core](https://www.learnentityframeworkcore.com/)
+- [EFCore BulkExtensions](https://entityframework-extensions.net/bulk-extensions)
