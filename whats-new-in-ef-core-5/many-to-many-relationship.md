@@ -98,3 +98,6 @@ EF will then automatically create rows in the join table.
 
 ![](../.gitbook/assets/image.png)
 
+## References
+
+- [EF Core Many to Many](https://www.learnentityframeworkcore.com/conventions/many-to-many-relationship)
