@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction of Entity Framework Core](README.md)
+* [EF Core - AI Tools](https://zzzcode.ai/efcore)
 * [What's New in EF Core 5](whats-new-in-ef-core-5/README.md)
   * [Simple Logging](whats-new-in-ef-core-5/simple-logging.md)
   * [Filtered Included](whats-new-in-ef-core-5/filtered-included.md)
