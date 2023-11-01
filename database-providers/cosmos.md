@@ -171,5 +171,9 @@ using (var context = new BookStore())
 }
 ```
 
+## References
+
+- [EF Core - Cosmos Provider](https://www.learnentityframeworkcore.com/database-providers#ef-core-azure-cosmos-db-provider)
+
 If you run the application, you will see that authors and books are successfully inserted into the database.
 
