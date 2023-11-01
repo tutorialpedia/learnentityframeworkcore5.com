@@ -319,3 +319,6 @@ context.Remove(actor);
 context.SaveChanges();
 ```
 
+## References
+
+- [EF Core DbContext](https://www.learnentityframeworkcore.com/dbcontext)
