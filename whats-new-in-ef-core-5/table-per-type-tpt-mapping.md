@@ -113,3 +113,6 @@ CREATE TABLE [dbo].[Teachers] (
 
 Tables that map to derived types also store a foreign key that joins the derived table with the base table.
 
+## Reference
+
+- [EF Core - TPT](https://www.learnentityframeworkcore.com/inheritance/table-per-type)
