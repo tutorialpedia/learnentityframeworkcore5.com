@@ -118,4 +118,4 @@ With the on-going development happening to the Entity Framework Core, developers
 ## References
 
 - [Learn EF Core](https://www.learnentityframeworkcore.com/)
-- [EFCore BulkExtensions](https://entityframework-extensions.net/bulk-extensions)
+- [EFE EFCore BulkExtensions](https://entityframework-extensions.net/bulk-extensions)
