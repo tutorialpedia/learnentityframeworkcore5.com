@@ -350,5 +350,7 @@ Open _**Views\Shared\\_Layout.cshtml**_, and add a menu entry for **Authors** af
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
+## References
 
+- [EF Core MVC Application](https://www.learnentityframeworkcore.com/walkthroughs/aspnetcore-application)
 
